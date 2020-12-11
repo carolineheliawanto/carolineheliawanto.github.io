@@ -1053,9 +1053,9 @@ p.djudul2 {
 }
 
 .bckidx {
-   background-image: url("../Foto/foto1.png");
+   background-image: url("../foto1.png");
    background-size: cover;
-   background-position-y: -25%;
+   background-position-y: -25px;
    width: auto;
    height: 800px;
 }
@@ -1528,7 +1528,7 @@ p.djudul2 {
       margin-left: 0px;
    }
    .bckidx {
-      background-image: url("../Foto/foto23-01.png");
+      background-image: url("../foto23-01.png");
       background-size: cover;
       background-position-y: 100%;
       width: auto;
