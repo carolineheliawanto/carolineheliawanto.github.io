@@ -48,7 +48,6 @@ header {
 .logo {
    width: 149px;
    height: 69px;
-   left: 100px;
    top: 6px;
 }
 
@@ -646,7 +645,7 @@ p.isi {
 
 .grid1 {
    display: grid;
-   grid-template-columns: 10px 1fr;
+   grid-template-columns: 20px 1fr;
    grid-template-rows: 150px 100px 100px;
    grid-template-areas: ". date" ". titleidx" ". subtitleidx" ". abtus";
    grid-gap: 10px;
